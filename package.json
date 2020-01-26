@@ -1,0 +1,16 @@
+{
+  "name": "type-ahead-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myscript.js",
+  "scripts": {
+    "deploy": "gh-pages -d type-ahead-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "hompage": "https://Snakesoap.github.io/Type-ahead-js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
